@@ -1,0 +1,30 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+error.log
+chart.html
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore data folder (your stock data)
+data/
+
+# Ignore exports folder (if you want to exclude Excel files too, optional)
+# exports/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
