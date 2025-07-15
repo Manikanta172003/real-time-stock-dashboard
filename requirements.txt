@@ -1,0 +1,9 @@
+PyQt5
+plotly
+sqlalchemy
+pandas
+pydantic
+python-dotenv
+loguru
+httpx
+pytest
